@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1727635773768,
+      "tag": "0000_giant_diamondback",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1739390132559,
+      "tag": "0001_past_paibok",
+      "breakpoints": true
+    }
+  ]
+}
